@@ -1,0 +1,207 @@
+{
+  "domain": "percalecharm",
+  "niche": "Haute Percale Cotton Weave & Crisp Textile Couture",
+  "design_concept": "Nordic Vanguard & Minimalist Organic",
+  "archetype_id": "nordic_organic",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "percalecharm_asset_1.jpg",
+      "size_kb": 189.01,
+      "md5": "9905c4406affce0c4076a74c8f3eecfd",
+      "description": "elementary treatise on the finishin",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "percalecharm_asset_2.jpg",
+      "size_kb": 273.17,
+      "md5": "5a70d20d8787f03f502f48b47da97792",
+      "description": "elementary treatise on the finishin",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "percalecharm_asset_4.jpg",
+      "size_kb": 216.12,
+      "md5": "a5e40beab1dee56950ad62e15e4ae1cb",
+      "description": "guatemalaweavings79",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "percalecharm_asset_5.jpg",
+      "size_kb": 199.85,
+      "md5": "4f24261c954f70aaaaa035f9b31e6dcb",
+      "description": "telar conversatorio las manos que",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "percalecharm_asset_6.jpg",
+      "size_kb": 175.48,
+      "md5": "48ff92faceefdbb1c4d520e1200b915a",
+      "description": "telar horizontal conversatorio la",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "percalecharm_asset_7.jpg",
+      "size_kb": 202.98,
+      "md5": "3ca134c0b42592c679b05b15de856232",
+      "description": "telar vertical conversatorio las",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "percalecharm_asset_8.jpg",
+      "size_kb": 168.75,
+      "md5": "8ed2df63006d53accef0542d21b6f550",
+      "description": "Artisanal handcrafted Haute Percale Cotton Weave & Crisp Textile Coutu",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "percalecharm_asset_9.jpg",
+      "size_kb": 181.5,
+      "md5": "f9dbdcf7153716743be130dc03f28b29",
+      "description": "useful information for cotton manuf",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "percalecharm_asset_10.jpg",
+      "size_kb": 66.42,
+      "md5": "311ad6b3e678efd834df22fa0fda960f",
+      "description": "a long bed lathe from coalisland we",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "percalecharm_asset_11.jpg",
+      "size_kb": 99.23,
+      "md5": "8bcb128168293abc8873d1fabbe4506e",
+      "description": "an anaviy to quv ustaxonasi",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "percalecharm_asset_12.jpg",
+      "size_kb": 181.49,
+      "md5": "9f9c2b7fd2e438bc8900e06a89d3ee19",
+      "description": "atelier de esut n p r de capr i",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "percalecharm_asset_13.jpg",
+      "size_kb": 190.56,
+      "md5": "de7c50c6bc4165b23d6505291c243d50",
+      "description": "clevelandart 1989.50",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "percalecharm_asset_14.jpg",
+      "size_kb": 398.93,
+      "md5": "49f6b2240aa745a36c4bd52fa6de7eb5",
+      "description": "clevelandart 1989.50 detail",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "percalecharm_asset_15.jpg",
+      "size_kb": 107.93,
+      "md5": "5c957b2d005d7175f60c2ceff40ad687",
+      "description": "colorful day",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "percalecharm_asset_16.jpg",
+      "size_kb": 202.27,
+      "md5": "1b0d1de1d5701da3268075ab1a3e7855",
+      "description": "haardscherm van palissander en vio",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "percalecharm_asset_17.jpg",
+      "size_kb": 80.99,
+      "md5": "78d9fc2ed385564e9d447a6cdbdaf4a1",
+      "description": "yog och to quv dastgohi ustaxonasi",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "percalecharm_asset_18.jpg",
+      "size_kb": 283.29,
+      "md5": "ef95d3d4af2602416c7ef14024aca15b",
+      "description": "testing clark s o.n.t. spool cott",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "percalecharm_asset_19.jpg",
+      "size_kb": 54.19,
+      "md5": "db70254d7cf5ac7a06b0a3f8caeca5e3",
+      "description": "clark s spool cotton 2922694036",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "percalecharm_asset_21.jpg",
+      "size_kb": 203.87,
+      "md5": "357065b52fd720e3234b1d4489fd4cc1",
+      "description": "j. p. coats spool cotton. front",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "percalecharm_asset_22.jpg",
+      "size_kb": 234.13,
+      "md5": "68df1da528544a68e8eaf5d0ba5a4be1",
+      "description": "jumbo aesthetic. clark s o.n.t. spo",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://percalecharm.com/sitemap.xml",
+    "robots": "https://percalecharm.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
